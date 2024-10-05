@@ -2,6 +2,10 @@ README FILE
 
 This is a Simple Calculator.
 Basic operations like addition, subtraction, multiplication and division can be done using this code.
+
+
+
+
 Steps to execute this program using notepad:
 1. Copy the code and paste in notepad.
 2. Save the file name as "Calculator.java".
