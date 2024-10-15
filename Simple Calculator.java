@@ -1,3 +1,6 @@
+// See README FILE.txt for instructions.
+
+
 package scanner;
 
 import java.util.Scanner;
